@@ -30,11 +30,6 @@ nav a {
   font-weight: bold;
 }
 
-nav a:hover {
-  color: #8f2440;
-  text-decoration: underline;
-}
-
 figcaption {
   font-size: .8rem;
   font-style: italic;
