@@ -67,6 +67,7 @@ blockquote b {
 
 ol {
   list-style-type: lower-greek;
+  font-family: "PT-Serif", serif;
 }
 
 h2 {
@@ -102,5 +103,10 @@ dl data {
 
 h2 + p {
   font-style: italic;
-  font-family: "pt-serif", serif;
+  font-family: "PT Serif", serif;
+}
+
+ul {
+  font-family: "PT Serif", serif;
+  list-style-type: circle;
 }
